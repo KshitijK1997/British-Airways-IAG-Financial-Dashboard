@@ -17,7 +17,7 @@ RETURN
 DIVIDE ( Rev2020 - Rev2019, Rev2019 )
 
 
-DAX Function used for Recovery & (2019 Vs. 2023):-
+DAX Function used for Recovery % (2019 Vs. 2023):-
 Recovery_% = 
 VAR Rev2019 =
     CALCULATE (
